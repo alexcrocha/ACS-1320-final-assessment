@@ -1,0 +1,7 @@
+.band {
+  border: 1px solid #ccc;
+  min-width: 350px;
+  height: 350px;
+  padding: 1rem;
+  margin: 1rem;
+}
