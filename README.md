@@ -1,7 +1,7 @@
 # ACS 1320 Final Assessment
 
 ## Demo Link
-
+[Visit the demo here](http://alexcrocha.github.io/ACS-1320-final-assessment)
 
 ## Available Scripts
 
