@@ -1,9 +1,9 @@
 .like {
   display: flex;
   flex-direction: row;
-  /* justify-content: center; */
+  justify-content: center;
   align-items: center;
-
+  padding: 0 25%;
 }
 
 .like button {

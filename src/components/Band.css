@@ -1,7 +1,14 @@
 .band {
   border: 1px solid #ccc;
-  min-width: 350px;
-  height: 350px;
+  width: 300px;
   padding: 1rem;
   margin: 1rem;
+}
+
+.band h2 {
+  padding: 0 2rem 0.25rem 2rem;
+}
+
+.band p {
+  margin: 1rem 3rem;
 }

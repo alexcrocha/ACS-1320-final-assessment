@@ -20,8 +20,9 @@ function Bands() {
 
   return (
     <>
-      <header >
+      <header className="bands-header">
         <Search searchInput={searchInput} setSearchInput={setSearchInput} />
+        <p>Total Bands {Object.keys(filteredBands).length}</p>
       </header>
       <main className="bands">
         {filteredBands.map((band) => (

@@ -6,7 +6,7 @@ function Like() {
   return (
     <div className="like">
       <button onClick={() => { setLikes(likes + 1) }}>👍</button>
-      <p>{likes}</p>
+      <span>{likes}</span>
       <button onClick={() => { setLikes(likes - 1) }}>👎</button>
     </div>
   );

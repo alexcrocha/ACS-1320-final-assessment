@@ -6,7 +6,7 @@ function BandStyle({ styles }) {
     <div className="bandstyles">
       <ul>
         {styles.map((style) => (
-          <li>{style}</li>
+          <li>- {style}</li>
         ))}
       </ul>
     </div>
