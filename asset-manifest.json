@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ACS-1320-final-assessment/static/css/main.e3b47810.css",
+    "main.js": "/ACS-1320-final-assessment/static/js/main.ee68f057.js",
+    "static/js/787.1641e735.chunk.js": "/ACS-1320-final-assessment/static/js/787.1641e735.chunk.js",
+    "static/media/logo.svg": "/ACS-1320-final-assessment/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/ACS-1320-final-assessment/index.html",
+    "main.e3b47810.css.map": "/ACS-1320-final-assessment/static/css/main.e3b47810.css.map",
+    "main.ee68f057.js.map": "/ACS-1320-final-assessment/static/js/main.ee68f057.js.map",
+    "787.1641e735.chunk.js.map": "/ACS-1320-final-assessment/static/js/787.1641e735.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e3b47810.css",
+    "static/js/main.ee68f057.js"
+  ]
+}
